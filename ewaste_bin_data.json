@@ -1,0 +1,122 @@
+{
+  "schema_version": 3,
+  "bins": [
+    {
+      "id": "ABB",
+      "name": "ABB",
+      "kind": "室内",
+      "x": 1280,
+      "y": 650
+    },
+    {
+      "id": "CNH",
+      "name": "CNH",
+      "kind": "室内",
+      "x": 1565,
+      "y": 250
+    },
+    {
+      "id": "HSC",
+      "name": "HSC",
+      "kind": "室内",
+      "x": 1705,
+      "y": 525
+    },
+    {
+      "id": "ITB",
+      "name": "ITB",
+      "kind": "室内",
+      "x": 1345,
+      "y": 840
+    },
+    {
+      "id": "LSB",
+      "name": "LSB",
+      "kind": "室内",
+      "x": 1640,
+      "y": 590
+    },
+    {
+      "id": "MDCL",
+      "name": "MDCL",
+      "kind": "室内",
+      "x": 1675,
+      "y": 640
+    },
+    {
+      "id": "MIP_ATRIUM",
+      "name": "MIP",
+      "kind": "室内",
+      "x": 1608,
+      "y": 390
+    },
+    {
+      "id": "RECYCLING_ROOM",
+      "name": "Recycle",
+      "kind": "室内",
+      "x": 1608,
+      "y": 340
+    },
+    {
+      "id": "MILLS_SECURE",
+      "name": "Mills",
+      "kind": "小型室内",
+      "x": 1618,
+      "y": 430
+    },
+    {
+      "id": "MUSC_SMALL",
+      "name": "MUSC",
+      "kind": "小型室内",
+      "x": 1415,
+      "y": 510
+    },
+    {
+      "id": "BSB",
+      "name": "BSB",
+      "kind": "室外",
+      "x": 1410,
+      "y": 485
+    },
+    {
+      "id": "CSB",
+      "name": "CSB",
+      "kind": "室外",
+      "x": 785,
+      "y": 520
+    },
+    {
+      "id": "ETB",
+      "name": "ETB",
+      "kind": "室外",
+      "x": 1405,
+      "y": 875
+    },
+    {
+      "id": "GSB",
+      "name": "GSB",
+      "kind": "室外",
+      "x": 1300,
+      "y": 455
+    },
+    {
+      "id": "JHE",
+      "name": "JHE",
+      "kind": "室外",
+      "x": 1395,
+      "y": 600
+    },
+    {
+      "id": "MEDICAL",
+      "name": "Medical",
+      "kind": "固定检查",
+      "x": 1655,
+      "y": 830,
+      "required": true
+    }
+  ],
+  "observations": {},
+  "daily_plans": {},
+  "created_at": "2026-10-03T01:35:24",
+  "updated_at": "2026-10-03T01:35:43"
+}
